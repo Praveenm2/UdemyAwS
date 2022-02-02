@@ -10,7 +10,7 @@ Day 2-01/02<br>
 <hr>
 DAY 3-02/02<br>
 
-1.S 1.SSH connect,Instance Connect<br>
+1.SSH connect,Instance Connect<br>
 2.Public Ipv4,Private Ipv4,Elastic IP<br>
 
 
