@@ -9,8 +9,11 @@ Day 2-01/02<br>
 2.Demand ,Reserved,Convertible RI ,Scheduled RI ,Spot instance,Dedicated host <br>
 <hr>
 DAY 3-02/02<br>
-
 1.SSH connect,Instance Connect<br>
 2.Public Ipv4,Private Ipv4,Elastic IP<br>
-
+<hr>
+DAY 4-03/02<br>
+1.Placement Groups *Cluster *Spread *Partition
+2.Elastic Network Interface 
+3.EC2 Hibernate
 
