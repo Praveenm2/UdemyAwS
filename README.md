@@ -13,7 +13,7 @@ DAY 3-02/02<br>
 2.Public Ipv4,Private Ipv4,Elastic IP<br>
 <hr>
 DAY 4-03/02<br>
-1.Placement Groups *Cluster *Spread *Partition
-2.Elastic Network Interface 
-3.EC2 Hibernate
+1.Placement Groups *Cluster *Spread *Partition<br>
+2.Elastic Network Interface <br>
+3.EC2 Hibernate<br>
 
