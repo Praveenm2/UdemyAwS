@@ -16,4 +16,8 @@ DAY 4-03/02<br>
 1.Placement Groups *Cluster *Spread *Partition<br>
 2.Elastic Network Interface <br>
 3.EC2 Hibernate<br>
-
+<hr>
+DAY 5-04/02<br>
+1.Advance EC2 concepts , EC2 Nitro <br>
+2.vCPU
+3.Capacity Reservations
