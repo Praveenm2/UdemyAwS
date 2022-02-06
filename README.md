@@ -19,5 +19,11 @@ DAY 4-03/02<br>
 <hr>
 DAY 5-04/02<br>
 1.Advance EC2 concepts , EC2 Nitro <br>
-2.vCPU
-3.Capacity Reservations
+2.vCPU<br>
+3.Capacity Reservations<br>
+<hr>
+DAY 6-05/02<br>
+1.EBS vol <br>
+<hr>
+DAY 7-06/02<br>
+1.EBS Snapshot
