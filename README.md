@@ -27,3 +27,8 @@ DAY 6-05/02<br>
 <hr>
 DAY 7-06/02<br>
 1.EBS Snapshot
+<hr>
+DAY 8-07/02<br>
+1.AMI <br>
+2.EC2 instance store <br>
+3.EBS vol types,Multi Attach & Encryption <br>
