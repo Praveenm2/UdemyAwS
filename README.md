@@ -32,3 +32,8 @@ DAY 8-07/02<br>
 1.AMI <br>
 2.EC2 instance store <br>
 3.EBS vol types,Multi Attach & Encryption <br>
+<hr>
+DAY 9-08/02<br>
+1.EFS and its use as it can be optimized in all AZ <br>
+2.EFS v EBS <br>
+3.Scalability Availability
