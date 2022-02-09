@@ -37,3 +37,6 @@ DAY 9-08/02<br>
 1.EFS and its use as it can be optimized in all AZ <br>
 2.EFS v EBS <br>
 3.Scalability Availability
+<hr>
+DAY 10-09/02<br>
+1.Elastic LB --> CLB 
