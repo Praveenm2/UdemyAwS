@@ -42,6 +42,12 @@ DAY 10-09/02<br>
 1.Elastic LB --> CLB 
 <hr>
 DAY 11-10/02<br>
-1.ALB
-2.NLB
-3.GLB
+1.ALB <br>
+2.NLB <br>
+3.GLB <br>
+<hr>
+DAY 12-11/02<br>
+1.ELB sticky sessions <br>
+2.Cross Load balancing <br>
+3.SSL & TLS
+
