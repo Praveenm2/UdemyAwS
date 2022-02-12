@@ -49,5 +49,8 @@ DAY 11-10/02<br>
 DAY 12-11/02<br>
 1.ELB sticky sessions <br>
 2.Cross Load balancing <br>
-3.SSL & TLS
+3.SSL & TLS <br>
+<hr>
+DAY 13-12/02<br>
+1.Revision Till adv concepts of vCPU
 
