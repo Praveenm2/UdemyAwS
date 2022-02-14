@@ -53,4 +53,11 @@ DAY 12-11/02<br>
 <hr>
 DAY 13-12/02<br>
 1.Revision Till adv concepts of vCPU
+<hr>
+DAY 14-13/02<br>
+1.Revision till Load balancer
+<hr>
+DAY 15-14/02<br>
+1.Container draining <br>
+2.ASG Intro
 
