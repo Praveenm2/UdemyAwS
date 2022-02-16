@@ -64,3 +64,6 @@ DAY 15-14/02<br>
 DAY 16-15/02<br>
 1.ASG scaling 
 2.Cloud watch alarm
+<hr>
+DAY 17-16/02<br>
+1.IAM intro & MFA things
