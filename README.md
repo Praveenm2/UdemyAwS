@@ -59,11 +59,14 @@ DAY 14-13/02<br>
 <hr>
 DAY 15-14/02<br>
 1.Container draining <br>
-2.ASG Intro
+2.ASG Intro<br>
 <hr>
 DAY 16-15/02<br>
-1.ASG scaling 
-2.Cloud watch alarm
+1.ASG scaling <br>
+2.Cloud watch alarm <br>
 <hr>
 DAY 17-16/02<br>
-1.IAM intro & MFA things
+1.IAM intro & MFA things<br>
+<hr>
+DAY 18-17/02<br>
+1.IAM CLI , Console,SDK<br>
