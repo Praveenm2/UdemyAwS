@@ -70,3 +70,6 @@ DAY 17-16/02<br>
 <hr>
 DAY 18-17/02<br>
 1.IAM CLI , Console,SDK<br>
+<hr>
+DAY 19-18/02<br>
+1.IAM rules ,Security tools , Cloud shell
