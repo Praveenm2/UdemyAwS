@@ -75,4 +75,7 @@ DAY 19-18/02<br>
 1.IAM rules ,Security tools , Cloud shell
 <hr>
 DAY 20-19/02<br>
-1.RDS Intro
+1.RDS Intro <br>
+<hr>
+DAY 21-20/02<br>
+1.RDS creation + Security Encryption
