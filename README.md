@@ -78,4 +78,8 @@ DAY 20-19/02<br>
 1.RDS Intro <br>
 <hr>
 DAY 21-20/02<br>
-1.RDS creation + Security Encryption
+1.RDS creation + Security Encryption<br>
+<hr>
+DAY 22-21/02<br>
+1.Aurora <br>
+2.Elastic Cache <br>
