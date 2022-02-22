@@ -83,3 +83,6 @@ DAY 21-20/02<br>
 DAY 22-21/02<br>
 1.Aurora <br>
 2.Elastic Cache <br>
+<hr>
+DAY 23-22/02<br>
+1.Rev RDS <br>
