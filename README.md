@@ -86,3 +86,6 @@ DAY 22-21/02<br>
 <hr>
 DAY 23-22/02<br>
 1.Rev RDS <br>
+<hr>
+DAY 24-23/02<br>
+1.Route 53 Intro
