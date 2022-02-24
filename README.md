@@ -89,3 +89,7 @@ DAY 23-22/02<br>
 <hr>
 DAY 24-23/02<br>
 1.Route 53 Intro
+<hr>
+DAY 25-24/02<br>
+1.Cname v Alias <br>
+2.Simple routing policy
