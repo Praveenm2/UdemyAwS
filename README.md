@@ -93,3 +93,6 @@ DAY 24-23/02<br>
 DAY 25-24/02<br>
 1.Cname v Alias <br>
 2.Simple routing policy
+<hr>
+DAY 26-25/02<br>
+1.Weighted routing policy
