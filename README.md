@@ -98,4 +98,7 @@ DAY 26-25/02<br>
 1.Weighted routing policy<br>
 <hr>
 DAY 27-26/02<br>
-1.LRP,GRP,FRP,Geometric,Multi health
+1.LRP,GRP,FRP,Geometric,Multi health<br>
+<hr>
+DAY 28-27/02<br>
+1.3rd party domain registration
