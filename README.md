@@ -101,4 +101,7 @@ DAY 27-26/02<br>
 1.LRP,GRP,FRP,Geometric,Multi health<br>
 <hr>
 DAY 28-27/02<br>
-1.3rd party domain registration
+1.3rd party domain registration<br>
+<hr>
+DAY 29-28/02<br>
+1.Golden AMI & Elastic Beanstalk<br>
