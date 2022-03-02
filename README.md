@@ -107,4 +107,7 @@ DAY 29-28/02<br>
 1.Golden AMI & Elastic Beanstalk<br>
 <hr>
 DAY 30-01/03<br>
-1.S3 intro bucket,folder , objects and versioning 
+1.S3 intro bucket,folder , objects and versioning <br>
+<hr>
+DAY 31-02/03<br>
+1.s3 bucket policies,Encryption,Static website hosting
