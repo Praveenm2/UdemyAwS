@@ -110,4 +110,7 @@ DAY 30-01/03<br>
 1.S3 intro bucket,folder , objects and versioning <br>
 <hr>
 DAY 31-02/03<br>
-1.s3 bucket policies,Encryption,Static website hosting
+1.s3 bucket policies,Encryption,Static website hosting<br>
+<hr>
+DAY 32-03/03<br>
+1.CORS, S3 Consistency
