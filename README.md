@@ -113,4 +113,7 @@ DAY 31-02/03<br>
 1.s3 bucket policies,Encryption,Static website hosting<br>
 <hr>
 DAY 32-03/03<br>
-1.CORS, S3 Consistency
+1.CORS, S3 Consistency<br>
+<hr>
+DAY 33-04/03<br>
+1.S3 MFA delete , Encryption,Accesslog intro
