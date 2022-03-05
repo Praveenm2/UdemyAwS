@@ -116,4 +116,7 @@ DAY 32-03/03<br>
 1.CORS, S3 Consistency<br>
 <hr>
 DAY 33-04/03<br>
-1.S3 MFA delete , Encryption,Accesslog intro
+1.S3 MFA delete , Encryption,Accesslog intro<br>
+<hr>
+DAY 34-05/03<br>
+1.S3 re intro 
