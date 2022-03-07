@@ -119,4 +119,8 @@ DAY 33-04/03<br>
 1.S3 MFA delete , Encryption,Accesslog intro<br>
 <hr>
 DAY 34-05/03<br>
-1.S3 re intro 
+1.S3 re intro <br>
+<hr>
+DAY 35-07/03<br>
+1.S3 access Log - like it save all the login & operations that we do in one bucket in target bucket.like it creates it.<br>
+<hr>
