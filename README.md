@@ -124,3 +124,9 @@ DAY 34-05/03<br>
 DAY 35-07/03<br>
 1.S3 access Log - like it save all the login & operations that we do in one bucket in target bucket.like it creates it.<br>
 <hr>
+DAY 36-08/03<br>
+1.S3 Replication, pre signed urls <br>
+<hr>
+DAY 37-09/03<br>
+1.S3 storage class, life cycle rules <br>
+<hr>
