@@ -130,3 +130,5 @@ DAY 36-08/03<br>
 DAY 37-09/03<br>
 1.S3 storage class, life cycle rules <br>
 <hr>
+DAY 38-10/03<br>
+1.S3 Analytics , performance,event notification<br>
