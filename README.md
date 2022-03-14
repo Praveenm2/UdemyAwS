@@ -132,3 +132,6 @@ DAY 37-09/03<br>
 <hr>
 DAY 38-10/03<br>
 1.S3 Analytics , performance,event notification<br>
+<hr>
+DAY 39-14/03<br>
+1.Cloud Front Intro + Hands-on with Cloudfront with S3
