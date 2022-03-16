@@ -134,4 +134,7 @@ DAY 38-10/03<br>
 1.S3 Analytics , performance,event notification<br>
 <hr>
 DAY 39-14/03<br>
-1.Cloud Front Intro + Hands-on with Cloudfront with S3
+1.Cloud Front Intro + Hands-on with Cloudfront with S3<br>
+<hr>
+DAY 40-16/03<br>
+1.cloud front adv concepts
