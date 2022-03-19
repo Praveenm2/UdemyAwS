@@ -137,4 +137,7 @@ DAY 39-14/03<br>
 1.Cloud Front Intro + Hands-on with Cloudfront with S3<br>
 <hr>
 DAY 40-16/03<br>
-1.cloud front adv concepts
+1.cloud front adv concepts <br>
+<hr>
+DAY 41-18/03<br>
+1.Global accelerator
