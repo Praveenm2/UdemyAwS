@@ -141,3 +141,7 @@ DAY 40-16/03<br>
 <hr>
 DAY 41-18/03<br>
 1.Global accelerator
+<hr>
+DAY 42-20/03<br>
+1.Aws Snow family <br>
+2.amazon Fsx <br>
