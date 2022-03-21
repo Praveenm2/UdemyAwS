@@ -145,3 +145,8 @@ DAY 41-18/03<br>
 DAY 42-20/03<br>
 1.Aws Snow family <br>
 2.amazon Fsx <br>
+<hr>
+DAY 43-21/03<br>
+1.Storage Gateway <br>
+2.AWS transfer family <br>
+3.Amazon SQS Intro <br>
