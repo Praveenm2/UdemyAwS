@@ -150,3 +150,6 @@ DAY 43-21/03<br>
 1.Storage Gateway <br>
 2.AWS transfer family <br>
 3.Amazon SQS Intro <br>
+<hr>
+DAY 44-22/03<br>
+1.Sqs Message visibility, Dead Letter Queue, Delay queue <br>
