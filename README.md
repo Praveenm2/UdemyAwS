@@ -153,3 +153,6 @@ DAY 43-21/03<br>
 <hr>
 DAY 44-22/03<br>
 1.Sqs Message visibility, Dead Letter Queue, Delay queue <br>
+<hr>
+DAY 45-23/03<br>
+1.Long Polling, Request Response,FIFO queue
