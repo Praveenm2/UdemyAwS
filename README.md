@@ -159,5 +159,9 @@ DAY 45-23/03<br>
 <hr>
 DAY 46-29/03<br>
 1.SQs + Sns <br>
+<Hr>
 Day 47 -01/04 <br>
 1.Kinesis Overview <br>
+<Hr>
+Day 48 -02/04 <br>
+1.Kinesis deep & Amazon MQ , SQS|SNS|Kinesis <br>
