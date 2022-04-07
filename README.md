@@ -174,3 +174,6 @@ Day 50 -04/04 <br>
 <Hr>
 Day 51 -05/04 <br>
 1.ECS overview <br>
+<Hr>
+Day 52 -07/04 <br>
+1.Ecs other features,Eks ,Ecr <br>
