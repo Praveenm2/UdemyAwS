@@ -186,3 +186,6 @@ Day 54 -10/04 <br>
 <Hr>
 Day 55 -11/04 <br>
 1.Amazon Dynamo DB <br>
+<Hr>
+Day 56 -19/04 <br>
+1.API gateway and security <br>
