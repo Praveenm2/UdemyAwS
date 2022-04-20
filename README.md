@@ -189,3 +189,6 @@ Day 55 -11/04 <br>
 <Hr>
 Day 56 -19/04 <br>
 1.API gateway and security <br>
+<Hr>
+Day 57 -20/04 <br>
+1.Soln archi -1 <br>
