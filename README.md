@@ -192,3 +192,7 @@ Day 56 -19/04 <br>
 <Hr>
 Day 57 -20/04 <br>
 1.Soln archi -1 <br>
+<Hr>
+Day 58-21/04 <br>
+1.Soln archi -2 <br>
+<Hr>
