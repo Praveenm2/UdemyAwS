@@ -196,3 +196,6 @@ Day 57 -20/04 <br>
 Day 58-21/04 <br>
 1.Soln archi -2 <br>
 <Hr>
+Day 59-25/04 <br>
+1.choosing ryt databases <br>
+
