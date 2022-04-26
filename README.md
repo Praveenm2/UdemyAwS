@@ -198,4 +198,6 @@ Day 58-21/04 <br>
 <Hr>
 Day 59-25/04 <br>
 1.choosing ryt databases <br>
-
+<hr>
+Day 60-26/04 <br>
+1.Choosing ryt DB2 - Athena,Redshift,Neptune,Glue
