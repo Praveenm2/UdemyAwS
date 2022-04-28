@@ -204,3 +204,6 @@ Day 60-26/04 <br>
 <hr>
 Day 61-26/04 <br>
 1.Choosing DB & Quiz<br>
+<hr>
+Day 62-26/04 <br>
+1.Cloudwatch Metrics, Dashboards
