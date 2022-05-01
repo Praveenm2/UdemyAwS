@@ -202,11 +202,14 @@ Day 59-25/04 <br>
 Day 60-26/04 <br>
 1.Choosing ryt DB2 - Athena,Redshift,Neptune,Glue <br>
 <hr>
-Day 61-26/04 <br>
+Day 61-27/04 <br>
 1.Choosing DB & Quiz<br>
 <hr>
-Day 62-26/04 <br>
+Day 62-28/04 <br>
 1.Cloudwatch Metrics, Dashboards<hr>
 <hr>
-Day 63-27/04 <br>
+Day 63-29/04 <br>
 1.Cloudwatch logs, Alarms <hr>
+<hr>
+Day 63-01/05 <br>
+1.Cloud watch events & Event Bridge <hr>
