@@ -209,7 +209,10 @@ Day 62-28/04 <br>
 1.Cloudwatch Metrics, Dashboards<hr>
 <hr>
 Day 63-29/04 <br>
-1.Cloudwatch logs, Alarms <hr>
+1.Cloudwatch logs, Alarms <br>
 <hr>
 Day 63-01/05 <br>
-1.Cloud watch events & Event Bridge <hr>
+1.Cloud watch events & Event Bridge <br>
+<hr>
+Day 64-02/05 <br>
+1.Cloud Trial OVerview <br>
