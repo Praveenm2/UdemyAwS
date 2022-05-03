@@ -216,3 +216,6 @@ Day 63-01/05 <br>
 <hr>
 Day 64-02/05 <br>
 1.Cloud Trial OVerview <br>
+<hr>
+Day 65-03/05 <br>
+1.cloud trial hands-on & AWS config ov <br>
