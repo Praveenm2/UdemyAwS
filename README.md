@@ -222,3 +222,6 @@ Day 65-03/05 <br>
 <hr>
 Day 66-04/05 <br>
 1.AWS config hands-on <br>
+<hr>
+Day 66-04/05 <br>
+1.Secure Token Service <br>
