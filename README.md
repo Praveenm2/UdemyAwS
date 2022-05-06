@@ -223,5 +223,8 @@ Day 65-03/05 <br>
 Day 66-04/05 <br>
 1.AWS config hands-on <br>
 <hr>
-Day 66-04/05 <br>
+Day 66-05/05 <br>
 1.Secure Token Service <br>
+<hr>
+Day 67-06/05 <br>
+1.Identity federation and Cognito started <br>
