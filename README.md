@@ -228,3 +228,6 @@ Day 66-05/05 <br>
 <hr>
 Day 67-06/05 <br>
 1.Identity federation and Cognito started <br>
+<hr>
+Day 68-07/05 <br>
+1.Directory Services <br>
