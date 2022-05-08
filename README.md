@@ -231,3 +231,7 @@ Day 67-06/05 <br>
 <hr>
 Day 68-07/05 <br>
 1.Directory Services <br>
+<hr>
+Day 69-08/05 <br>
+1.Organisation ov <br>
+<Hr>
