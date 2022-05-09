@@ -235,3 +235,7 @@ Day 68-07/05 <br>
 Day 69-08/05 <br>
 1.Organisation ov <br>
 <Hr>
+Day 70-09/05 <br>
+1.Organisation <br>
+2.Resource Access Manager <br>
+3.Single Sign On <br>
