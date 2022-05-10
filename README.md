@@ -239,3 +239,7 @@ Day 70-09/05 <br>
 1.Organisation <br>
 2.Resource Access Manager <br>
 3.Single Sign On <br>
+<Hr>
+Day 70-09/05 <br>
+1.Encryption <br>
+2.Kms ov and hands-on I didn't do it <br>
