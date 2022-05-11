@@ -243,3 +243,6 @@ Day 70-09/05 <br>
 Day 70-09/05 <br>
 1.Encryption <br>
 2.Kms ov and hands-on I didn't do it <br>
+<Hr>
+Day 70-09/05 <br>
+1.SSM Parameter & Hands-on with lambda too <br>
