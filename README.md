@@ -249,3 +249,6 @@ Day 72-11/05 <br>
 <Hr>
 Day 73-12/05 <br>
 1.AWS secret manager & Cloud HSM <br>
+<Hr>
+Day 74-17/05 <br>
+1.VPC Intro <br>
