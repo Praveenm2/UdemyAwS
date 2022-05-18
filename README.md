@@ -252,3 +252,7 @@ Day 73-12/05 <br>
 <Hr>
 Day 74-17/05 <br>
 1.VPC Intro <br>
+<Hr>
+Day 75-18/05 <br>
+1.VPC created, Subnet created, Attached IGW,Routed<br> the traffic of subnet to IGW
+And ssh from bastion to Private Subnet<br>
