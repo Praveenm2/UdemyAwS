@@ -256,3 +256,7 @@ Day 74-17/05 <br>
 Day 75-18/05 <br>
 1.VPC created, Subnet created, Attached IGW,Routed<br> the traffic of subnet to IGW
 And ssh from bastion to Private Subnet<br>
+<Hr>
+Day 76-18/05 <br>
+1.Created NAT instance,Nat Gateway, Dns Route host<br>
+<Hr>
