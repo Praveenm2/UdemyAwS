@@ -260,3 +260,6 @@ And ssh from bastion to Private Subnet<br>
 Day 76-18/05 <br>
 1.Created NAT instance,Nat Gateway, Dns Route host<br>
 <Hr>
+Day 77-19/05 <br>
+1.NACL & security group difference<br>
+
