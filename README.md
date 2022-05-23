@@ -262,4 +262,7 @@ Day 76-18/05 <br>
 <Hr>
 Day 77-19/05 <br>
 1.NACL & security group difference<br>
+<Hr>
+Day 78-23/05 <br>
+1.VPC Peering, VPC endpoints <br>
 
