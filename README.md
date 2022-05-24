@@ -265,4 +265,7 @@ Day 77-19/05 <br>
 <Hr>
 Day 78-23/05 <br>
 1.VPC Peering, VPC endpoints <br>
-
+<Hr>
+Day 79-24/05 <br>
+1.vpc flow log, Site to site vpn,
+2.Direct connect ,AWS private link
