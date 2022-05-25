@@ -269,3 +269,6 @@ Day 78-23/05 <br>
 Day 79-24/05 <br>
 1.vpc flow log, Site to site vpn,<br>
 2.Direct connect ,AWS private link<br>
+<Hr>
+Day 80-25/05 <br>
+1.Transit gateway, Traffic mirroring<br>
