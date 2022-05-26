@@ -272,3 +272,7 @@ Day 79-24/05 <br>
 <Hr>
 Day 80-25/05 <br>
 1.Transit gateway, Traffic mirroring<br>
+<Hr>
+Day 81-26/05 <br>
+1.IPV6,Egress only gateway : for internet connection<br>
+Ipv6 ,Quiz<br>
