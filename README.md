@@ -276,3 +276,6 @@ Day 80-25/05 <br>
 Day 81-26/05 <br>
 1.IPV6,Egress only gateway : for internet connection<br>
 Ipv6 ,Quiz<br>
+<Hr>
+Day 82-30/05 <br>
+1.Machine learning intro<br>
