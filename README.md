@@ -279,3 +279,7 @@ Ipv6 ,Quiz<br>
 <Hr>
 Day 82-30/05 <br>
 1.Machine learning intro<br>
+<Hr>
+Day 83-31/05 <br>
+1.ML <br>
+2.More soltn architecture <br>
