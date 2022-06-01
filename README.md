@@ -283,3 +283,6 @@ Day 82-30/05 <br>
 Day 83-31/05 <br>
 1.ML <br>
 2.More soltn architecture <br>
+<Hr>
+Day 84-01/06 <br>
+1.Soln Architecture <br>
