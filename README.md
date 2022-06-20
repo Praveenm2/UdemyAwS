@@ -290,6 +290,9 @@ Day 84-01/06 <br>
 Day 85-02/06 <br>
 1.Soln archi & Quiz<br>
 <Hr>
-Day 86-07/06 
+Day 86-07/06 <br>
 1.Other services <br>
+<Hr>
+Day 99-20/06 <br>
+*Cloud Front,SQSSNS Kinesis,Cloudwatch,RDS,Serverless<br>
 <Hr>
