@@ -296,3 +296,5 @@ Day 86-07/06 <br>
 Day 99-20/06 <br>
 *Cloud Front,SQSSNS Kinesis,Cloudwatch,RDS,Serverless<br>
 <Hr>
+Day 100-18/07 <br>
+1.Organisation,Iam Policy & RB Policy diff<br>
